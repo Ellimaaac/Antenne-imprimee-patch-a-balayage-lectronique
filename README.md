@@ -48,6 +48,16 @@ Le projet repose sur une **chaîne de calcul analytique complète**, couvrant à
 
 L’ensemble des calculs a été implémenté dans une **feuille Excel de pré-dimensionnement**, permettant l’exploration rapide de différentes architectures et scénarios de réseau.
 
+# Résultats
+
+|   Fichier   |   Image/Lien | 
+|---    |:-:    |
+|   Rapport du projet PDF   |      |  
+| Fichiers de conception et simulation ADS   |     | 
+
+## Visualisation
+
+<p align="center"><img src="" width="600" /></p> 
 <p align="center"><img src="" width="600" /></p> 
 
 
