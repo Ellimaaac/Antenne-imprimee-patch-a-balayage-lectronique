@@ -38,8 +38,6 @@ Le travail a été réalisé dans le cadre d’un **projet scolaire** pour [CoHo
 |   Rapport du projet PDF   |  [lien.pdf](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-lectronique/blob/main/2026_ESC_Projet_Circuit_JOSSERON_MENEGALLI_BAINARD_LANFREDI.pdf)    |  
 | Fichiers de conception et simulation ADS   |     | 
 
-## Visualisation
-
 ### Antenne et Arborescence avec déphaseurs
 <p align="center"><img src="img/reseauPatch4x1.png" width="600" /></p> 
 <p align="center"><img src="img/arborescence.png" width="600" /></p> 
