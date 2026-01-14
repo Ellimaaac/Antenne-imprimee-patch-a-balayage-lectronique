@@ -36,7 +36,10 @@ Le travail a été réalisé dans le cadre d’un **projet scolaire** pour [CoHo
 |   Fichier   |  Lien | 
 |---    |:-:    |
 |   Rapport du projet PDF   |  [lien.pdf](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-lectronique/blob/main/2026_ESC_Projet_Circuit_JOSSERON_MENEGALLI_BAINARD_LANFREDI.pdf)    |  
-| Fichiers de conception et simulation ADS   |     | 
+| Fichiers des patch ADS   |     | 
+| Ficher de l'arborescence ADS |  [lien téléchargement](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-electronique/blob/main/Projet_circuit_1201lib.7zads) |
+| Ficher de l'arborescence  KiCad | [lien téléchargement](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-electronique/blob/main/Projet_circuit_1201lib.7zads)  |
+
 
 ### Antenne et Arborescence avec déphaseurs
 <p align="center"><img src="img/reseauPatch4x1.png" width="600" /></p> 
